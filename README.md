@@ -1,2 +1,1 @@
-# gminer
-gminer
+HSPMiner
