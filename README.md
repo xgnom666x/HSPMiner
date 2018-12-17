@@ -1,1 +1,1 @@
-HSPMiner
+miner
